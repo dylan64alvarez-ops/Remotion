@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm install && npx remotion render MyComp site/video.mp4",
+  "outputDirectory": "site"
+}
